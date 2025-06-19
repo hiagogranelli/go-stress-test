@@ -1,0 +1,7 @@
+Test server starting on :8080
+Endpoints:
+  /          - Returns 200 OK
+  /slow      - 100ms delay
+  /count     - Request counter
+  /status/X  - Returns status code X
+2025/06/19 16:29:38 listen tcp :8080: bind: address already in use
